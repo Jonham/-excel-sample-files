@@ -1,0 +1,5 @@
+- Excel
+  - Excel 2007
+  - 12.0.4518.1014
+- System
+  - Windows 10 Prossional
